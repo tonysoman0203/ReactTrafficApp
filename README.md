@@ -1,3 +1,16 @@
+## ReactTrafficApp (WIP)
+This application utilizes react.js, redux, firebase to get the traffic data from DATA.GOV.HK. It can display the real-time traffic cam image every 5 min updated by Traffic Department
+
+## This application also provides native application developed by React-native(https://github.com/tonysoman0203/RNTrafficApp/tree/develop)
+
+## Library
+- Redux
+- Flow
+- Moment.js
+- firebase
+
+## Disclaimer 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
